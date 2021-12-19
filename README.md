@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/[JAVA]-[007396]?style=flat-square&logo=[Java]&logoColor=white"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs990301&show_icons=true&theme=default)
+![Pio's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs990301&show_icons=true&theme=default)
  
 <!--
 **pjs990301/pjs990301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
