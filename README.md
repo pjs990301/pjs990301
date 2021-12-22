@@ -19,15 +19,16 @@ Pio's Git Hub
 <b>DB</b><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><br>
-<br>
- <h1>Tool</h1></br> 
+</p>
+<p>
+Tool</br> 
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9900?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/DataGrip-0ABF53?style=flat-square&logo=DataGrip&logoColor=white"/>
 </p>
 
 
-
+  
 <!--![PIO's github stats](https://github-readme-stats.vercel.app/api?username=pjs990301&show_icons=true&width=500)-->
 [![PIO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)
 
