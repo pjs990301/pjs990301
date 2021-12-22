@@ -23,7 +23,7 @@ Pio's Git Hub
 <b>Tool</b></br>
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataGrip-03EF62?style=flat-square&logo=DataGrip&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataGrip-0ABF53?style=flat-square&logo=DataGrip&logoColor=white"/>
 </p>
 
 
