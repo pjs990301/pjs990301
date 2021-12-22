@@ -19,8 +19,6 @@ Pio's Git Hub
 <b>DB</b><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><br>
-</p>
-<p>
 Tool</br> 
 <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9900?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
