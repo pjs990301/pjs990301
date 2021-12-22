@@ -3,7 +3,8 @@
 Pio's Git Hub
 <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
 <li>📚 Studying Back-end Development</li>
-## Skills💪
+
+### Skills💪
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
