@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Skills
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 ![PIO's github stats](https://github-readme-stats.vercel.app/api?username=pjs990301&show_icons=true&width=500)
