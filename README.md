@@ -29,11 +29,13 @@
  <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9900?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
  <img src="https://img.shields.io/badge/DataGrip-0ABF53?style=flat-square&logo=DataGrip&logoColor=white"/>
  </p>
+ </div>
  
-<h1>My stats</h1> 
+<h1>My stats</h1>
+<div>
  [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)
-
 </div>
+
 
 
 <!--
