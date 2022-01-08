@@ -2,12 +2,12 @@
 <div align='center'>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
-<h3> 🙌 Welcome 🙌 </h3>
+<h1> 🙌 Welcome 🙌 </h1>
   <p>
 🏫 Gachon Univ. - Department of Software (2018 - )</br>
 📚 Studying Back-end Development
   </p>
-<h3>📚 Techology Stack 📚</h3>  
+<h1>📚 Techology Stack 📚</h1>  
 
 <p>
 <b>Language</b></br>
