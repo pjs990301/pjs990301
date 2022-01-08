@@ -9,7 +9,7 @@
 📚 Studying Back-end Development
   </p>
   
-<h1>📚 Techology Stack 📚</h1>  
+<h2>📚 Techology Stack 📚</h2>  
 
  <p>
  <b>Language</b></br>
@@ -31,10 +31,9 @@
  </p>
  </div>
  
-<h1>My stats</h1>
-<div>
+<h1>🏃🏻‍♀️My Stats🏃🏻‍♀️</h1>
+
  [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)
-</div>
 
 
 
