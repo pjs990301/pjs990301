@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <div align='center'>
- <h3> 🙌 Welcome 🙌 </h3>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
+
+<h3> 🙌 Welcome 🙌 </h3>
 🏫 Gachon Univ. - Department of Software (2018 - )
 📚 Studying Back-end Development
 
