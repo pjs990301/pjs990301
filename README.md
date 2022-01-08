@@ -50,9 +50,10 @@
  </p>
 -->
 <h3>🏃🏻‍♀️My Stats🏃🏻‍♀️</h3> 
-</div>
+
 [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&layout=compact)](https://github.com/pjs990301)
+</div>
 
 <!--
 **pjs990301/pjs990301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
