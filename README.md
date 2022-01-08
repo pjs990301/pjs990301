@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=Pio&fontSize=80&fontAlign=60)
+<div align='center'>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
 <li>🏫 Gachon Univ. - Department of Software (2018 - )</li>
 <li>📚 Studying Back-end Development</li>
 
@@ -24,7 +26,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9900?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/DataGrip-0ABF53?style=flat-square&logo=DataGrip&logoColor=white"/>
 </p>
-
+</div>
 
   
 <!--![PIO's github stats](https://github-readme-stats.vercel.app/api?username=pjs990301&show_icons=true&width=500)-->
