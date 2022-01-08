@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
 
- <h2> 🙌 Welcome 🙌 </h2>
+ <h3> 🙌 Welcome 🙌 </h3>
  <p>
 🏫 Gachon Univ. - Department of Software (2018 - )</br>
 📚 Studying Back-end Development
   </p>
   
-<h2>📚 Techology Stack 📚</h2>  
+<h3>📚 Techology Stack 📚</h3>  
 
  <p>
  <b>Language</b></br>
@@ -31,7 +31,7 @@
  </p>
  </div>
  
-<h1>🏃🏻‍♀️My Stats🏃🏻‍♀️</h1>
+<h3>🏃🏻‍♀️My Stats🏃🏻‍♀️</h3>
 
  [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)
 
