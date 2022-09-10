@@ -23,6 +23,10 @@
  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9900?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
  <img src="https://img.shields.io/badge/DataGrip-0ABF53?style=flat-square&logo=DataGrip&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=DataGrip&logoColor=white"/>
+
+ 
 <!--
  <p>
  <b>Language</b>  
