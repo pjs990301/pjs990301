@@ -1,13 +1,14 @@
 ## Pio's GitHub 👋
-<div align='center'>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
 
 ## 🙌 Welcome 🙌 
 - 🏫 Gachon Univ. - Department of Software (2018 - )
-- 🔬 Research Assistant (BS&MS) - intelligent Networking and Computing Lab.<br>School of Computing, Gachon University (2022.10 - )
+- 🔬 Research Assistant (BS&MS) - intelligent Networking and Computing Lab. School of Computing, Gachon University (2022.10 - )
 - 📚 Studying Back-end Development</br>
-  
+
+<div align='center'>
 <h3>📚 Techology Stack 📚</h3>  
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
