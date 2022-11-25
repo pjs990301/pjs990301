@@ -3,12 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=165&section=header&text=JiSung%20Pyo&fontSize=80&fontAlign=60) 
 
- <h3> 🙌 Welcome 🙌 </h3>
- <p>
-🏫 Gachon Univ. - Department of Software (2018 - )</br>
-🔬 Research Assistant (BS&MS) - intelligent Networking and Computing Lab.<br>School of Computing, Gachon University (2022.10 - )<br>
-📚 Studying Back-end Development</br>
-  </p>
+## 🙌 Welcome 🙌 
+- 🏫 Gachon Univ. - Department of Software (2018 - )
+- 🔬 Research Assistant (BS&MS) - intelligent Networking and Computing Lab.<br>School of Computing, Gachon University (2022.10 - )
+- 📚 Studying Back-end Development</br>
   
 <h3>📚 Techology Stack 📚</h3>  
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
