@@ -6,7 +6,7 @@
  <h3> 🙌 Welcome 🙌 </h3>
  <p>
 🏫 Gachon Univ. - Department of Software (2018 - )</br>
-🔬 Research Assistant(BS&MS) - intelligent Networking and Computing Lab., School of Computing, Gachon University (2022.10 - )
+🔬 Research Assistant(BS&MS) - intelligent Networking and Computing Lab.<br>School of Computing, Gachon University (2022.10 - )
 📚 Studying Back-end Development</br>
   </p>
   
