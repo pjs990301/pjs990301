@@ -6,7 +6,8 @@
 ## 🙌 Welcome 🙌 
 - 🏫 Gachon Univ. - Department of Software (2018 - )
 - 🔬 Research Assistant (BS&MS) - intelligent Networking and Computing Lab. School of Computing, Gachon University (2022.10 - )
-- 📚 Studying Back-end Development</br>
+- 📚 Studying Back-end & Server Development</br>
+- 💻 Researching Wi-Fi Sensing</br>
 
 <div align='center'>
 <h3>📚 Techology Stack 📚</h3>  
