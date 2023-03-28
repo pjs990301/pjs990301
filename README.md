@@ -59,11 +59,11 @@
  </p>
 -->
 <h3>🏃🏻‍♀️My Stats🏃🏻‍♀️</h3> 
- <p>
+ <div>
 [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)
  
 ![Pio's github stats](https://github-readme-stats.vercel.app/api?username=pjs990301&count_private=true&theme=vue&show_icons=true)
- </p>
+ </div>
 </div>
 
 <!--
