@@ -59,10 +59,8 @@
  </p>
 -->
 <h3>🏃🏻‍♀️My Stats🏃🏻‍♀️</h3> 
-<div>
 [![Pio's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs990301&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pjs990301)</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs990301&theme=vue&show_icons=true)
-</div>
 </div>
 
 <!--
